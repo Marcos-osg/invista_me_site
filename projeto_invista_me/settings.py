@@ -28,7 +28,7 @@ SECRET_KEY = 'l)4no(ov827dn#vox645nitiackg+zdn_+%$)9i8qyh5j6wleh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://invista-me-site.herokuapp.com']
 
 
 # Application definition
